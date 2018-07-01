@@ -19,7 +19,9 @@ html {
 }
 
 @media only screen and (min-width: 642px) and (max-width: 1090px){
-  #dolphin
+  #dolphin{
+    
+  }
 }
 /* Write your solution here */
 
