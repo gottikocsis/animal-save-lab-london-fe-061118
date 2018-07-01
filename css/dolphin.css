@@ -17,7 +17,6 @@ html {
   top: 400px;
   right: 0;
 }
-
-@media only srceen and (min-width: 642px)
+@media only screen and (min-width: 642px) and (max-width: 1090px)
 /* Write your solution here */
 
