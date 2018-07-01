@@ -16,6 +16,7 @@ html {
   position: absolute;
   top: 400px;
   right: 0;
+  @media only screen
 }
 
 /* Write your solution here */
